@@ -3,8 +3,9 @@ $(document).ready(function () {
 		arrows: true,
 		dots: true,
 		adaptiveHeight: true,
-		slidesToShow: 3,
+		slidesToShow: 1,
 		slidesToScroll: 1,
+		initialSlide: 1,
 	}
 	);
 });
